@@ -32,7 +32,7 @@ gem "sidekiq", "~> 7.0"
 gem "sidekiq-cron", "~> 1.12"
 
 # HTTP client (Freelancer API)
-gem "faraday", "~> 2.0"
+gem "faraday", "~> 2.14"
 
 # Authentication
 gem "jwt", "~> 2.8"
